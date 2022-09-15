@@ -1,0 +1,1 @@
+# markdown-internal-link-checker
